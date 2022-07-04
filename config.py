@@ -1,0 +1,4 @@
+FORM_RECOGNIZER_ENDPOINT = "https://azuse2mipdevcog03.cognitiveservices.azure.com/"
+FORM_RECOGNIZER_KEY = "e4032040dab045d0aea8e086e4546f83"
+
+CUSTOM_MODEL_ID = "e2414145-abf6-482d-9221-1101a1263169"

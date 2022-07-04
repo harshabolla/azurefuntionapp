@@ -1,0 +1,8 @@
+{
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "bhttpnlobtrigger_STORAGE": "DefaultEndpointsProtocol=https;AccountName=bhttpnlobtrigger;AccountKey=gcfY1+pW9sLsT0GKlV77T1rJ5LMesD1rv1NyvpoBPaqB/6rVGQ9xcMzT9BpUYOnMlaCB52fzjQuR+AStNVgkHA==;EndpointSuffix=core.windows.net"
+  },
+  "IsEncrypted": false
+}
